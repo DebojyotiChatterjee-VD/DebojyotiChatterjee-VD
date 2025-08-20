@@ -1,4 +1,4 @@
-<!-- Profile README for @DebojyotiChatterjee-VD -->
+<!-- Profile README for @biomaverick -->
 
 <div align="center" style="overflow:hidden;">
 
@@ -89,5 +89,5 @@ My main interests include **research collaboration, bioinformatics pipelines, an
 ---
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebojyotiChatterjee-VD&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DebojyotiChatterjee-VD&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biomaverick&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biomaverick&layout=compact&theme=tokyonight)
