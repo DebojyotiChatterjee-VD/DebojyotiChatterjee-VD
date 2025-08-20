@@ -2,7 +2,7 @@
 
 <div align="center" style="overflow:hidden;">
 
-<img src="assets/Untitled design.png" 
+<img src="assets/Untitled_design.png" 
 alt="Bioinformatics Banner" width="100%" height="250" style="object-fit: cover;"/>
 
 </div>
