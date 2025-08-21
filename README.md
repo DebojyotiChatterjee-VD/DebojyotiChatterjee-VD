@@ -13,7 +13,7 @@ alt="Bioinformatics Banner" width="100%"
 # Hi, I'm Debojyoti Chatterjee   
 **MSc Bioinformatics student | Exploring data & NGS analysis, APIs, and AI/ML · Passionate about research collaboration & data-driven discovery**
 
-[Email](mailto:cdebojyoti.research@gmail.com) · [LinkedIn](https://www.linkedin.com/in/debojyoti-chatterjee-bioinfo)
+[![Email](https://img.shields.io/badge/Email-cdebojyoti.research%40gmail.com-red?style=flat&logo=gmail)](mailto:cdebojyoti.research@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debojyoti%20Chatterjee-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/debojyoti-chatterjee-bioinfo) 
 
 </div>
 
@@ -161,27 +161,6 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 ## 🌐 Web & Development Basics
 - HTML(for portfolio/CV pages)  
 - Git & GitHub (version control, project hosting)  
----
-
-### Highlights / Recent Work
-- **Curio** – A **bioinformatics dashboard** with live API queries (KEGG, UniProt, NCBI), batch jobs, visualization, and export options.  
-  _Streamlit · API orchestration · Data pipelines_  
-  Repo: https://github.com/YOUR_USER/REPO_CURIO  
-
-- **Bioinformatics API Wrappers** – Python clients for **UniProt, NCBI, and KEGG** that accept gene names or accessions and return rich metadata (GO terms, FASTA sequences, subcellular localization, binding sites, etc.).  
-  _APIs · Robust parsing · Reproducible workflows_  
-  Repo: https://github.com/YOUR_USER/REPO_WRAPPERS  
-
-- **ReportGen** – Automated **PDF/HTML report builder** for research sessions, combining plots, sequence data, and metadata into polished outputs.  
-  _Python · ReportLab · Reproducible research_  
-  Repo: https://github.com/YOUR_USER/REPO_REPORTGEN  
-
-- **NGS & Structural Analysis Projects** – Academic projects on **sequence analysis, protein–ligand interactions, and comparative plant bioassays**, applying computational and wet-lab techniques to real-world problems.  
-  _NGS analysis · Structural biology · Drug design_  
-
-- **Research Publication** – *Larvicidal activity and GC–MS analysis of Ophiorrhiza mungos against Spodoptera litura*, published in the **Journal of Biopesticides**.  
-  [DOI: 10.57182/jbiopestic.17.2.117-129](https://jbiopestic.com/archivesbrief.php?id=726)  
-
 ---
 
 ### Stats
