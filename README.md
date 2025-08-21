@@ -20,14 +20,20 @@ alt="Bioinformatics Banner" width="100%"
 ---
 
 ### About Me  
-I’m currently pursuing my Master’s in **Bioinformatics**, with growing experience in **data analysis, NGS workflows, and API development**.  
-I enjoy building tools that transform raw biological data into meaningful insights, and I’m especially curious about how **AI/ML can advance research in life sciences**.  
 
-My main interests include **research collaboration, bioinformatics pipelines, and applied machine learning in biology**. On GitHub, you’ll find my projects exploring **data APIs, visualization dashboards, and automated reporting**—all aimed at making scientific workflows more reproducible and accessible.  
+I’m currently pursuing my Master’s in **Bioinformatics**, with growing experience in data analysis, NGS workflows, and API development.  
+I enjoy building tools that transform raw biological data into meaningful insights, and I’m especially curious about how *AI/ML can advance research in life sciences*.  
+
+I am currently exploring the world of Genomics, Proteomics, Cancer Biology, and Chemoinformatics.  
+My main research interests rest in research collaboration, bioinformatics pipelines, and applied machine learning in biology.  
+
+Recently, I worked on a project exploring data APIs of various bioinformatics databases such as **UniProt**, **NCBI**, and **KEGG**, integrating them in a minimal dashboard for easier access—aimed at making scientific workflows more reproducible, accessible, and faster.  
+
+Outside of research and academics, I enjoy reading books, clicking photos, making videos, and learning instruments.  
 
 ---
 
-### What I Aim To Do
+### My Aim?
 - Develop **bioinformatics tools and pipelines** that turn raw data (NGS, sequence, structural) into reproducible insights.  
 - Build **robust API wrappers** (UniProt, NCBI, KEGG) and data pipelines to simplify biological data access and integration.  
 - Design **interactive dashboards** (Streamlit) and automated **reporting workflows** (ReportLab/Python) for faster research decisions.  
