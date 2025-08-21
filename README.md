@@ -3,7 +3,8 @@
 <div align="center" style="overflow:hidden;">
 
 <img src="assets/Untitled_design.png" 
-alt="Bioinformatics Banner" width="100%" height="250" style="object-fit: cover;"/>
+alt="Bioinformatics Banner" width="100%"
+ height="250" style="object-fit: cover;"/>
 
 </div>
 
@@ -36,35 +37,124 @@ My main interests include **research collaboration, bioinformatics pipelines, an
 
 ---
 
-### 🛠️ Bioinformatics & Computational Toolkit  
+## ⚡ Skills & Tools  
 
-**Programming & Data Science**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+### Programming & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miniconda-44A833?logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
+</p>
 
-**Frameworks & Deployment**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+---
 
-**Databases**  
-![NCBI](https://img.shields.io/badge/NCBI-4CAF50?logo=databricks&logoColor=white)
-![UniProt](https://img.shields.io/badge/UniProt-003366?logo=universal-access&logoColor=white)
-![PDBsum](https://img.shields.io/badge/PDBsum-8E44AD?logo=databricks&logoColor=white)
+### Bioinformatics Tools & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/NCBI-008080?logoColor=white" />
+  <img src="https://img.shields.io/badge/UniProt-00457C?logoColor=white" />
+  <img src="https://img.shields.io/badge/PDB-2C2D72?logoColor=white" />
+  <img src="https://img.shields.io/badge/Ensembl-9C27B0?logoColor=white" />
+  <img src="https://img.shields.io/badge/ExPASy-FF9800?logoColor=white" />
+  <img src="https://img.shields.io/badge/STRING-006699?logoColor=white" />
+  <img src="https://img.shields.io/badge/MEGA-4CAF50?logoColor=white" />
+</p>
 
-**Bioinformatics Tools**  
-![BLAST](https://img.shields.io/badge/BLAST-1F618D?logo=biolink&logoColor=white)
-![Clustal Omega](https://img.shields.io/badge/Clustal%20Omega-34495E?logo=biolink&logoColor=white)
-![EMBOSS](https://img.shields.io/badge/EMBOSS-117864?logo=biolink&logoColor=white)
-![MEGA](https://img.shields.io/badge/MEGA-9C640C?logo=biolink&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-7D3C98?logo=biolink&logoColor=white)
+---
 
+### Structural Biology Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/PyMOL-FF6600?logoColor=white" />
+  <img src="https://img.shields.io/badge/Chimera-00599C?logoColor=white" />
+  <img src="https://img.shields.io/badge/ChimeraX-009688?logoColor=white" />
+  <img src="https://img.shields.io/badge/AlphaFold-4285F4?logoColor=white" />
+  <img src="https://img.shields.io/badge/Modeller-795548?logoColor=white" />
+  <img src="https://img.shields.io/badge/Swiss--Model-1976D2?logoColor=white" />
+  <img src="https://img.shields.io/badge/I--TASSER-512DA8?logoColor=white" />
+</p>
+
+---
+
+### Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+</p>
+
+---
+
+### ☁️ Workflow, Cloud & HPC
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
+</p>
+
+---
+
+### Web & Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+</p>
+
+---
+
+## 🧑‍💻 Programming & Scripting
+- Python (Biopython, Matplotlib)  
+- R (ggplot2, edgeR, DESeq2)   
+- Shell scripting (Bash, Linux environment)  
+- Jupyter Notebook  
+- Miniconda  
+
+## 🧬 Bioinformatics Tools & Databases
+- NCBI (BLAST, GEO, SRA)  
+- UniProt, PDB, Pfam  
+- Ensembl Genome Browser  
+- ExPASy suite (ProtParam, Translate, SwissSidechain)  
+- STRING (protein-protein interactions)  
+- MEGA (phylogenetic analysis)  
+
+## 📊 Data Analysis & Statistics
+- RStudio (statistical analysis, visualization)  
+
+## 🧩 Structural Biology Tools
+- PyMOL, Chimera, ChimeraX  
+- AlphaFold DB  
+- Modeller  
+- SWISS-MODEL  
+- AlphaFold Protein Structure Database  
+- Robetta (Baker Lab)   
+- Structure Validation / Comparison  
+- SWISS-MODEL Structure Assessment  
+- PROCHECK  
+
+## 🤖 Machine Learning & AI
+- TensorFlow  
+- Keras  
+- Scikit-learn  
+- Pandas  
+- NumPy  
+
+## ☁️ Cloud & HPC
+- Google Colab / Kaggle notebooks  
+- Cluster computing basics (batch job submission, Linux servers)  
+
+## 📑 Document Preparation 
+- Markdown (GitHub-friendly docs, READMEs)  
+
+## 🌐 Web & Development Basics
+- HTML(for portfolio/CV pages)  
+- Git & GitHub (version control, project hosting)  
 ---
 
 ### Highlights / Recent Work
