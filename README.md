@@ -161,8 +161,4 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 ## 🌐 Web & Development Basics
 - HTML(for portfolio/CV pages)  
 - Git & GitHub (version control, project hosting)  
----
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biomaverick&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biomaverick&layout=compact&theme=tokyonight)
