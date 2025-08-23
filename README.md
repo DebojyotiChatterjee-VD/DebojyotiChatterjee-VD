@@ -49,7 +49,6 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white" />
